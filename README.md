@@ -1,6 +1,6 @@
 # Python Programming Internship 🐍
 
-📍 **Organization**: Learnovate Technologies  
+📍 **Organization**: Stem Robotics
 📅 **Duration**: July 2024  
 🏫 **Mode**: Online
 
